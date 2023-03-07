@@ -1,5 +1,5 @@
 
-### <div align="center" style="font-size:15px">Hi🤙🏻, I'm Elif, I am a 3rd year Computer Science Engineering student at Yeditepe University. So far I have been interested in Python, Java, HTML, CSS, Bootstrap, JS. I am open to learning and improving myself.</div>  
+### <div align="center" style="font-size:20px">Hi 🤙🏻, I'm Elif, I am a 3rd year Computer Science Engineering student at Yeditepe University. So far I have been interested in Python, Java, HTML, CSS, Bootstrap, JS. I am open to learning and improving myself.</div>  
 
 <br/> 
   
