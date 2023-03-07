@@ -1,10 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Elif, I am a 3rd year Computer Science Engineering student at Yeditepe University. So far I have been interested in Python, Java, HTML, CSS, Bootstrap, JS. I am open to learning and improving myself.</div>  
   
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 
